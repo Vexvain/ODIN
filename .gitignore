@@ -16,7 +16,7 @@ database/
 *.db
 
 # Virtual environment
-env_loki
+env_odin
 
 # Downloads path 
 downloads/
