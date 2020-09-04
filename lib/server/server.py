@@ -1,5 +1,3 @@
-# Date: 06/01/2018
-# Author: Pure-L0G1C
 # Description: Server
 
 import ssl
