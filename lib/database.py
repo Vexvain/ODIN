@@ -113,7 +113,7 @@ class Database(object):
 
     def create_default_account(self):
         if self.is_empty():
-            self.add_account('loki', 'ikol')
+            self.add_account('odin', 'nido')
 
     # -------- Attempts -------- #
 
