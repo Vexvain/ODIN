@@ -1,7 +1,3 @@
-# Date: 09/01/2018
-# Author: Pure-L0G1C
-# Description: Execute creator
-
 import os
 import sys
 import zlib
