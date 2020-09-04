@@ -1,7 +1,3 @@
-# Date: 07/22/2018
-# Author: Pure-L0G1C
-# Description: Machine information
-
 import socket
 from uuid import getnode
 from requests import get
