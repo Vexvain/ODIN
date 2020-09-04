@@ -1,5 +1,3 @@
-# Date: 10/03/2019
-# Author: Mohamed
 # Description: Secure Screenshare
 
 import os
