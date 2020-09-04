@@ -1,7 +1,3 @@
-# Date: 09/30/2018
-# Author: Pure-L0G1C
-# Description: Keylogger
-
 from threading import Thread
 from pynput.keyboard import Key, Listener
 
