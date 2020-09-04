@@ -1,5 +1,3 @@
-# Date: 07/27/2018
-# Author: Pure-L0G1C
 # Description: Secure shell
 
 import os
