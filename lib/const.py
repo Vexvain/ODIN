@@ -1,7 +1,3 @@
-# Date: 08/13/2018
-# Author: Pure-L0G1C
-# Description: Config file
-
 import os
 
 ################
