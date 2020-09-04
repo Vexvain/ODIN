@@ -1,5 +1,3 @@
-# Date: 08/31/2018
-# Author: Pure-L0G1C
 # Description: File manager
 
 
