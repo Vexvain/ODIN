@@ -1,7 +1,3 @@
-# Date: 06/04/2018
-# Author: Pure-L0G1C
-# Description: Bot
-
 import sys
 import ssl
 import socket
