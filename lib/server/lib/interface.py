@@ -1,5 +1,3 @@
-# Date: 06/07/2018
-# Author: Pure-L0G1C
 # Description: Interface for the master
 
 from re import match
