@@ -65,8 +65,8 @@ MIN_PASSWORD_LENGTH = 12
 MAX_PASSWORD_LENGTH = 256
 
 # Default creds
-DEFAULT_USERNAME = 'loki'
-DEFAULT_PASSWORD = 'ikol'
+DEFAULT_USERNAME = 'odin'
+DEFAULT_PASSWORD = 'nido'
 
 # Downloads path
 DOWNLOADS_PATH = 'downloads'
