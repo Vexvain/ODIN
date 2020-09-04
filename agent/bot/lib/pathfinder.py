@@ -1,7 +1,3 @@
-# Date: 08/31/2018
-# Author: Pure-L0G1C
-# Description: Finds a random path
-
 import os
 from random import randint
 from getpass import getuser
