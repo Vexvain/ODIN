@@ -1,4 +1,4 @@
-ODIN is a simple **RAT** <br/>
+ODIN is a simple **RAT** <br/> <br/>
 ODIN uses **RSA-2048** with **AES-256** to keep your communication with infected machines secure.<br/>
 
 [![Version](https://img.shields.io/badge/Version-v0.1.1-blue)]() 
