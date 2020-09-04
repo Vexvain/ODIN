@@ -30,7 +30,7 @@ class Server(object):
         key_pair.generate_key(crypto.TYPE_RSA, 2048)
 
         cert = crypto.X509()
-        cert.get_subject().O = 'Loki'
+        cert.get_subject().O = 'Odin'
         cert.get_subject().CN = 'Sami'
         cert.get_subject().OU = 'Pure-L0G1C'
         cert.get_subject().C = 'US'
