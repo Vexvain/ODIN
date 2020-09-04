@@ -1,69 +1,60 @@
-# Loki
+ODIN is a simple **RAT** <br/>
+ODIN uses **RSA-2048** with **AES-256** to keep your communication with infected machines secure.<br/>
 
-Loki is a simple **R**emote **A**ccess **T**ool.<br/>
-Loki uses **RSA-2048** with **AES-256** to keep your communication with infected machines secure.<br/>
-
-[![Version](https://img.shields.io/badge/Version-v0.1.1-blue)]()
-[![Python](https://img.shields.io/badge/Python-v3.6%2B-blue)]()
-[![Discord](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/Qnvw43r)
-[![Donate](https://img.shields.io/badge/PayPal-Donate-orange.svg)](https://www.paypal.me/Msheikh03)
+[![Version](https://img.shields.io/badge/Version-v0.1.1-blue)]() 
+[![Python](https://img.shields.io/badge/Python-v3.6%2B-blue)]() 
 <br/><br/>
 
-<img src="Screenshots/bots.png" atl=""/>
+# Requirements
 
-### Requirements
+- Python **3.6.x** | **3.7.x** | **3.8.x**
 
--   Python **3.6.x** | **3.7.x** | **3.8.x**
+# Servers Tested
 
-### Server tested on
+- Windows 10
+- Kali Linux
 
--   Windows 10
--   Kali Linux
+# Bots Tested
 
-### Bot tested on
+- Windows 10
 
--   Windows 10
+# Payload Generator Tested
 
-### Payload generator tested on
+- Windows 10
 
--   Windows 10
+# Features
 
-### Features
+- Upload & Download
+- Chrome Launching
+- Persistence
+- Screenshare
+- Screenshot
+- Keylogger
+- SFTP
+- SSH
 
--   Upload & Download
--   Chrome Launching
--   Persistence
--   Screenshare
--   Screenshot
--   Keylogger
--   SFTP
--   SSH
 
-### Video
-
-https://www.youtube.com/watch?v=UTfZlXGoJ5Y
-
-### Installation
+# Installation
 
 ```shell
 $> pip install -r requirements.txt
 ```
 
-### Server side
+# Server Side
 
 1. Open `/lib/const.py` & configure your private and public IP's
-2. Start loki.py
+2. Start ODIN.py
 3. Navigate to http://localhost:5000
 4. Login
 
     ```
-    Username: loki
-    Password: ikol
+    Username: odin
+    Password: nido
     ```
 
 5. Start the server on the same IP as your private IP
 
-### Generate a payload
+# Generate Payload
 
 Navigate to agent directory and run the following command
 
@@ -73,11 +64,11 @@ $> python builder.py -h
 
 **It will not compile inside a virtual environment**
 
-### After connection
+# After Connection
 
 -   You can click the id of the bot once it connects
 
-### FYI
+# FYI
 
 -   The bot will call the server using the Public IP, not the private IP
 -   The bot will call the server using the port specified on the server tab
