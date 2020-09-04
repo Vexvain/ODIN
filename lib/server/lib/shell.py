@@ -1,5 +1,3 @@
-# Date: 06/05/2018
-# Author: Pure-L0G1C
 # Description: Recv/Send to master
 
 import sys
