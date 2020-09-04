@@ -43,7 +43,7 @@ $> pip install -r requirements.txt
 # Server Side
 
 1. Open `/lib/const.py` & configure your private and public IP's
-2. Start ODIN.py
+2. Start odin.py
 3. Navigate to http://localhost:5000
 4. Login
 
